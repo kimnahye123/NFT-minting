@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.51f0e231.chunk.css",
-    "main.js": "/static/js/main.7cfc99fa.chunk.js",
-    "main.js.map": "/static/js/main.7cfc99fa.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.1ea16f56.js",
-    "runtime-main.js.map": "/static/js/runtime-main.1ea16f56.js.map",
-    "static/css/2.7cf1c5b2.chunk.css": "/static/css/2.7cf1c5b2.chunk.css",
-    "static/js/2.ab55b23d.chunk.js": "/static/js/2.ab55b23d.chunk.js",
-    "static/js/2.ab55b23d.chunk.js.map": "/static/js/2.ab55b23d.chunk.js.map",
-    "static/js/3.c2eadef5.chunk.js": "/static/js/3.c2eadef5.chunk.js",
-    "static/js/3.c2eadef5.chunk.js.map": "/static/js/3.c2eadef5.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.7cf1c5b2.chunk.css.map": "/static/css/2.7cf1c5b2.chunk.css.map",
-    "static/css/main.51f0e231.chunk.css.map": "/static/css/main.51f0e231.chunk.css.map",
-    "static/js/2.ab55b23d.chunk.js.LICENSE.txt": "/static/js/2.ab55b23d.chunk.js.LICENSE.txt"
+    "main.css": "/NFT-minting/static/css/main.51f0e231.chunk.css",
+    "main.js": "/NFT-minting/static/js/main.7cfc99fa.chunk.js",
+    "main.js.map": "/NFT-minting/static/js/main.7cfc99fa.chunk.js.map",
+    "runtime-main.js": "/NFT-minting/static/js/runtime-main.09e3a632.js",
+    "runtime-main.js.map": "/NFT-minting/static/js/runtime-main.09e3a632.js.map",
+    "static/css/2.7cf1c5b2.chunk.css": "/NFT-minting/static/css/2.7cf1c5b2.chunk.css",
+    "static/js/2.41243ec2.chunk.js": "/NFT-minting/static/js/2.41243ec2.chunk.js",
+    "static/js/2.41243ec2.chunk.js.map": "/NFT-minting/static/js/2.41243ec2.chunk.js.map",
+    "static/js/3.c2eadef5.chunk.js": "/NFT-minting/static/js/3.c2eadef5.chunk.js",
+    "static/js/3.c2eadef5.chunk.js.map": "/NFT-minting/static/js/3.c2eadef5.chunk.js.map",
+    "index.html": "/NFT-minting/index.html",
+    "static/css/2.7cf1c5b2.chunk.css.map": "/NFT-minting/static/css/2.7cf1c5b2.chunk.css.map",
+    "static/css/main.51f0e231.chunk.css.map": "/NFT-minting/static/css/main.51f0e231.chunk.css.map",
+    "static/js/2.41243ec2.chunk.js.LICENSE.txt": "/NFT-minting/static/js/2.41243ec2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1ea16f56.js",
+    "static/js/runtime-main.09e3a632.js",
     "static/css/2.7cf1c5b2.chunk.css",
-    "static/js/2.ab55b23d.chunk.js",
+    "static/js/2.41243ec2.chunk.js",
     "static/css/main.51f0e231.chunk.css",
     "static/js/main.7cfc99fa.chunk.js"
   ]
