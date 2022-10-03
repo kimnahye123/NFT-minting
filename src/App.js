@@ -4,6 +4,7 @@ import Button from "react-bootstrap/Button";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Caver from "caver-js";
 import { CONTRACTADDRESS, ABI } from "./config.js";
+import BigNumber from "bignumber.js";
 
 function App() {
   const caver = new Caver(window.klaytn);
@@ -92,7 +93,7 @@ function App() {
       alert("아직 민팅이 시작되지 않았습니다.");
       return;
     }
-    const total_value = Number(amount * price);
+    const total_value = BigNumber(amount * price);
     try {
       const gasAmount = await myContract.methods
         .publicMint(amount)
